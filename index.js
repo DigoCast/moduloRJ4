@@ -90,4 +90,4 @@ class Empresa{
         \n${descricaoClientes}`;
     }
 }
-export default {Cliente, Telefone, Endereco, Empresa}
+export {Cliente, Telefone, Endereco, Empresa}
